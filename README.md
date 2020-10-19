@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![chloeching](https://circleci.com/gh/chloeching/final-project.svg?style=svg)](https://circleci.com/gh/chloeching/final-project?branch=main)
 
 ## Project Overview
 
